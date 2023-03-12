@@ -1,5 +1,3 @@
-![Example Annotation](http://smegaupload.co.uk/up/uploads/arcorelocationbanner1524843962.png "ARCore location gps")
-
 # ARCoreLocation
 
 [Allows items to be placed within the AR world using real-world coordinates.](https://www.appoly.co.uk/arcore-location/)
